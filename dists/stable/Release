@@ -1,7 +1,21 @@
-Origin: Tornado
-Label: Tornado
-Suite: stable
-Codename: stable
-Architectures: all
-Components: main
-Description: Tornado IP Rotation Tool Repo
+Date: Thu, 31 Jul 2025 12:23:30 +0000
+MD5Sum:
+ bb498d204f96973900a81d728b5ba2f7              384 Packages.gz
+ 03945fd2115192322ea81b8941afb02e               38 Release
+ 95e714be1dcc1f0ed311639374599cd2              504 main/binary-amd64/Packages
+ 5dffa4a4a16ba8a882247769b0b604f2              372 main/binary-amd64/Packages.gz
+SHA1:
+ 2c2e1369f436236eda4dafde6363dee2516b1011              384 Packages.gz
+ d53751f1173581c66adad700754a55161b8a6cda               38 Release
+ a0afe6685da48e4438d009484df3ff7779df89a9              504 main/binary-amd64/Packages
+ 1ce418794bc358bb97190ea83d31a0e62c98eec6              372 main/binary-amd64/Packages.gz
+SHA256:
+ b618889b78bcc977a3eadaf1067aba9606c32840e5732fbda01ba51983e52701              384 Packages.gz
+ af4153a2a1180da4a444b4fb74316701f51875b683b75617cb252be42ee96736               38 Release
+ 67607c3da73e33f7d9ab13aa6f714a54cf790622d4fcad8af659b57cc640148e              504 main/binary-amd64/Packages
+ be0aac034ae8fa644d13c34ffe9c2d9869e34c0a46f70947a976fed4891fee20              372 main/binary-amd64/Packages.gz
+SHA512:
+ 89a9e472bdf11948ab4be85839aa32bc0bea926cfb81008d78670c0f0e977b80ee9303b3662c5fca06b1a7b78fb3dac69c2fa4a56d74ded001ba0281a30a7ee1              384 Packages.gz
+ bde50b5c6f9f11b019a52d951f438aa80c0b54c7358e4ceb7152089046aa6bdb55d94d77b50381a7ea73168ed93eae858da452cca320ff55fff437fabd453823               38 Release
+ 0b6a74e7e49c91724705aee72104dcdbb0d97b5e40ba66cb58555d6fdc977dd9a5b4258470427d447141df35248464080f20fdbd4ea6e52393646118c4e9add6              504 main/binary-amd64/Packages
+ 96a88a9fefef96d26e4df1cdb8c3f215fb6debe58dc2c3a8606b2155c13a6ddfb1a857c20a3fc170299be6265d6600656dc8af98dff0f30a0c7f236e94ffef99              372 main/binary-amd64/Packages.gz

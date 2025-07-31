@@ -1,0 +1,14 @@
+Package: tornado
+Version: 1.0
+Architecture: all
+Maintainer: Zain Nadeem zainnadeemzainnadeem80@gmail.com
+Filename: ./tornado-deb.deb
+Size: 2124
+MD5sum: 41a6d8b5fcd2169cfd3e15000dc5bb1f
+SHA1: 7fe0a755ad54bf1862326ba2525986366fd7c6d8
+SHA256: b74070cd445c5865fcde415b91ab6ba00189b768cb63e4fbf8f59a70d50238f1
+Section: base
+Priority: optional
+Description: Anonymous IP Rotation Toolkit using TOR
+ Tornado is a professional-grade IP rotation tool built on TOR for privacy, penetration testing, and anonymity.
+
