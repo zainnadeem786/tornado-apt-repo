@@ -1,3 +1,9 @@
+Origin: tornado
+Label: tornado
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
 Date: Thu, 31 Jul 2025 12:23:30 +0000
 MD5Sum:
  bb498d204f96973900a81d728b5ba2f7              384 Packages.gz
